@@ -12,7 +12,7 @@ gallery:
 
 ## Current group members
 <!-- set relative links to md-files -->
-[Nicolas Allesøe](nicolas)  
+[Nicolas Allesøe](people/nicolas)  
 
 
 ## Shared Members
