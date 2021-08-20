@@ -7,7 +7,7 @@ sidebar:
 gallery:
 ---
 
-## [Micheal](micheal_benros)
+## [Micheal Benross](people/micheal_benros)
 
 
 ## Current group members
