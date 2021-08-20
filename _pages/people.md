@@ -12,16 +12,16 @@ gallery:
 
 ## Current group members
 <!-- set relative links to md-files -->
-[Beate Holmelund Frandsen](beate_frandsen)  
-[Nicolas Allesøe](nicolas)  
-[Nina Vindegaard Sørensen](nina_soerensen)  
-[Ron Nudel](ron_nudel)  
-[Rosa Lundbye Allesøe](rosa_allesoe)  
-[Rose Jeppesen](rose_jeppesen)  
-[Rune Haubo Christensen](rune_haubo)  
-[Signe Clausen](signe_clausen)  
-[Troels Boldt Rømer](troels_romer)  
-[Vardan Nersesjan](vardan_nersesjan)
+[Beate Holmelund Frandsen](people/beate_frandsen)  
+[Nicolas Allesøe](people/nicolas)  
+[Nina Vindegaard Sørensen](people/nina_soerensen)  
+[Ron Nudel](people/ron_nudel)  
+[Rosa Lundbye Allesøe](people/rosa_allesoe)  
+[Rose Jeppesen](people/rose_jeppesen)  
+[Rune Haubo Christensen](people/rune_haubo)  
+[Signe Clausen](people/signe_clausen)  
+[Troels Boldt Rømer](people/troels_romer)  
+[Vardan Nersesjan](people/vardan_nersesjan)
 
 ## Shared Members
 
