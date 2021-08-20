@@ -2,6 +2,12 @@
     background-color: #FFFFFF;
   }
   
+@media (max-width: 768px) {
+.particle-network-animation {
+        background-image: url(./images/brain1.jpg);
+        background-size: auto;
+}
+}
   .particle-network-animation {
     position: fixed;
     top: 0;
@@ -11,6 +17,9 @@
     height: 100vh;
     background-image: url(./images/brain1.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     z-index: -2;
   }
   
