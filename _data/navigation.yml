@@ -20,31 +20,36 @@ projects:
     #     url:
 
 people:
-  - title: "Micheal"
-    url: people/Micheal_benros
   - title: "Members"
-    url: people
     children:
-      - title: "Beate Holmelund Frandsen"
-        url: people/beate_frandsen
-      - title: "Nicolas Allesøe"
-        url: people/nicolas
-      - title: "Nina Vindegaard Sørensen"
-        url: people/nina_soerensen
+      - title: "Micheal Benros"
+        url: people/Micheal_benros
+  - title: "Senior researcher/postdoc"
+    children:
+      - title: "Rune Haubo Christensen"
+        url: people/rune_haubo
+  - title: "Phd Students"
+    children:
       - title: "Ron Nudel"
         url: people/ron_nudel
       - title: "Rosa Lundbye Allesøe"
         url: people/rosa_allesoe
+      - title: "Nina Vindegaard Sørensen"
+        url: people/nina_soerensen
       - title: "Rose Jeppesen"
-        url: people/rose_jeppesen
-      - title: "Rune Haubo Christensen"
-        url: people/rune_haubo
+        url: people/rose_jeppese"
+      - title: "Vardan Nersesjan"
+        url: people/vardan_nersesjan
       - title: "Signe Clausen"
         url: people/signe_clausen
       - title: "Troels Boldt Rømer"
         url: people/troels_romer
-      - title: "Vardan Nersesjan"
-        url: people/vardan_nersesjan
+      - title: "Beate Holmelund Frandsen"
+        url: people/beate_frandsen
+  - title: "Intern"
+    children:
+      - title: "Nicolas Allesøe"
+        url: people/nicolas
   - title: "Alumni"
     url: people#alumni
     children:
