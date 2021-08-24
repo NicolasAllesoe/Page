@@ -1,7 +1,7 @@
 ---
-title: Nicolas Allesoe
+title: Ina Viktoria Mousten
 layout: single
-permalink: people/nicolas
+permalink: people/ina_mousten
 sidebar:
     nav: people
 ---

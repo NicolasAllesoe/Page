@@ -11,27 +11,30 @@ main:
   - title: "Publications"
     url: publications
 
-
 projects:
-  - title: "project1"
-    url: projects/project1
-    # children:
-    #   - title:
-    #     url:
-
+  - title: "ImmunoPsykiatri"
+    url: projects/immuno_psykiatri
+  - title: "PSYCH-FLAME "
+    url: projects/psych_flame 
+  - title: "PRECISE"
+    url: projects/precise
+  - title: "Co-morbiditet mellem psykiatriske sygdomme og generelle medicinske tilstande"
+    url: projects/immuno_psykiatri
+  - title: "ImmunoPsykiatri"
+    url: projects/immuno_psykiatri
 people:
-  - title: "Members"
+  - title: "Professor and Head of Research"
     children:
-      - title: "Micheal Benros"
-        url: people/Micheal_benros
+      - title: "Micheal Eriksen Benros"
+        url: people/micheal_benros
   - title: "Senior researcher/postdoc"
     children:
       - title: "Rune Haubo Christensen"
         url: people/rune_haubo
-  - title: "Phd Students"
-    children:
       - title: "Ron Nudel"
         url: people/ron_nudel
+  - title: "Phd Students"
+    children:
       - title: "Rosa Lundbye Allesøe"
         url: people/rosa_allesoe
       - title: "Nina Vindegaard Sørensen"
@@ -40,19 +43,23 @@ people:
         url: people/rose_jeppese"
       - title: "Vardan Nersesjan"
         url: people/vardan_nersesjan
-      - title: "Signe Clausen"
-        url: people/signe_clausen
-      - title: "Troels Boldt Rømer"
-        url: people/troels_romer
-      - title: "Beate Holmelund Frandsen"
-        url: people/beate_frandsen
   - title: "Intern"
     children:
       - title: "Nicolas Allesøe"
         url: people/nicolas
+  - title: "Assistent"
+    children:
+     - title: "Signe Clausen"
+       url: people/signe_clausen
   - title: "Alumni"
     url: people#alumni
     children:
+      - title: "Troels Boldt Rømer"
+        url: people/troels_romer
+      - title: "Beate Holmelund Frandsen"
+        url: people/beate_frandsen
+      - title: "Ina Viktoria Mousten"
+        url: people/ina_mousten
    
 
 publications:
