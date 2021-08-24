@@ -14,7 +14,7 @@ main:
 projects:
   - title: "ImmunoPsykiatri"
     url: projects/immuno_psykiatri
-  - title: "PSYCH-FLAME "
+  - title: "PSYCH-FLAME"
     url: projects/psych_flame 
   - title: "PRECISE"
     url: projects/precise

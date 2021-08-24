@@ -6,11 +6,40 @@ sidebar:
     nav: projects
 ---
 <link rel="stylesheet" href="./assets/collapsible.css" />
-<script src="./assets/collapsible.js"></script>
 
-<div class="colapse">
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div> 
-</div> 
+
+
+<button class="collapsible" id="y1">ImmunoPsykiatri</button>
+<div class="content" id="y1data" markdown="1">
+    <p>ImmunoPsykiatri – Immunologiske årsager til Psykiatriske sygdomme</p>
+    <ul>
+    <li>PSYCH-FLAME: Klinisk studie</li>
+    <li>Biobanker</li>
+    <li>ImmunoGenetik</li>
+    <li>Registre</li>
+    </ul>
+    <p>
+        Immunsystemets involvering i udvikling af psykiatriske sygdomme har fået fornyet fokus efter opdagelsen af antistoffer mod hjernevæv, som kan forårsage psykiatriske symptomer, samt at nye genetiske studier kæder immunsystemet sammen med skizofreni og affektive sygdomme. Identifikation af inflammatoriske mekanismer, som har en kausal rolle ved skizofreni og affektive sygdomme, vil have store perspektiver og være et gennembrud inden for psykiatrisk forskningen.
+    </p>
+    <p>
+    Vi vil udnytte de omfattende danske registre med adgang til informationer om immun-relateret eksponering som infektioner og autoimmune sygdomme. Særligt studier af cerebrospinalvæsken (CSF) har manglet, og vi vil udføre de første store undersøgelser af de omfattende målinger af immun-relaterede markører i CSF og blod tilgængelige i de danske laboratorie- og biobankregistre, og dets sammenhænge med skizofreni og affektive sygdomme samt immun-relaterede geners indflydelse.
+    </p>
+    Herudover vil vi udføre omfattende immunologiske undersøgelser, inkluderende omics og systems biology analyser på CSF og blod i et nyt klinisk studie på patienter med nyligt diagnosticeret skizofreni og affektive sygdomme samt på gemt biobank materiale. Det vil være den første brede undersøgelse af immunologiske forandringer i CSF. Disse detaljerede undersøgelser af immunsystemets rolle ved skizofreni og affektive sygdomme kan resultere i et paradigme skift i forståelsen af sygdommene, forbedre diagnostikken og bane vejen for nye skræddersyede behandlingsmetoder.
+    <p>
+   Vores team består af danske og internationale forskere, inden for psykiatri, epidemiologi, immunologi, neurologi og klinisk forskning.
+    </p> 
+</div>
+
+<button class="collapsible" id="y2">PSYCH-FLAME</button>
+<div class="content" id="y2data" markdown="1">
+    <p>PSYCH-FLAME har til formål at undersøge i hvor stor grad inflammatoriske processer spiller en rolle for udvikling af psykiatrisk sygdom.
+    </p>
+    <p>
+    Vi vil med studiet belyse forekomsten af autoantistoffer, infektioner og andre immunologiske forandringer i rygmarvsvæske og blod fra patienter med debut af psykose, skizofreni eller depression, som et led i forklaringen på udvikling og forløb af psykiatriske symptomer.
+    </p>
+    <a href="https://www.psykiatri-regionh.dk/psych-flame/Sider/default.aspx">Læs mere om PSYCH-FLAME her.</a>
+</div>
+
+</div>
+
+{%- include collapse.html -%}
