@@ -4,9 +4,19 @@ permalink: projects
 sidebar:
     nav: projects
 ---
-<div class="imageright"></div>
-<div class="imageleft"></div>
+<script src="./assets/particle_bar.js"></script>
+<script>
+particlesJS.load('particles-js', './assets/particlesjs.json', function() {
+    console.log('callback - particles.js config loaded');
+  });
+  particlesJS.load('particles-js1', './assets/particlesjs.json', function() {
+    console.log('callback - particles.js config loaded');
+  });</script>
 <link rel="stylesheet" href="./assets/collapsible.css" />
+<link rel="stylesheet" href="./assets/particle_bar.css" />
+
+<div class="imageright" id="particles-js"></div>
+<div id="particles-js1" class="imageleft"></div>   
 
 <div style="width: 50vw; margin-right: 75em; padding-bottom: 5em;
      background: rgb(255, 255, 255);">
@@ -44,5 +54,6 @@ sidebar:
 </div>
 
 </div>
+
 
 {%- include collapse.html -%}
