@@ -14,12 +14,25 @@
     background-color: #555;
   }
   
-  .content {
+.content {
     padding: 0 18px;
     display: none;
     overflow: hidden;
     background-color: #f1f1f1;
   }
+
+.bar {
+    width: 50vw; 
+    margin-right: 75em;
+    padding-bottom: 5em;
+    background: rgb(255, 255, 255);
+
+}
+@media screen and (max-width: 760px) {
+    .bar {
+        width: 100%; 
+    }
+    }
 
   .masthead {
     background-color: #FFFFFF;
