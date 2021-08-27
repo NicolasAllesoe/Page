@@ -1,0 +1,12 @@
+.twitterdiv {
+    margin-left: 35em;
+    margin-top: -2em;
+
+}
+
+@media (max-width: 768px) {
+.twitterdiv {
+    display: none
+}
+
+}
