@@ -6,7 +6,7 @@ sidebar:
     nav: people
 
 ---
-
+<link rel="stylesheet" href="/assets/people.css" />
 
   <div class="twitterdiv">
       <!-- <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Latest tweets</h4></header> -->
@@ -16,4 +16,4 @@ sidebar:
      </div>
   </div>
 
-<link rel="stylesheet" href="/assets/people.css" />
+
