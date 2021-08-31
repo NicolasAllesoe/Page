@@ -7,7 +7,7 @@ sidebar:
 classes: wide
 ---
 
-<img style="display: inline-block; width: 600px;" src="/assets/images/brain1.jpg" >
+<img style="display: inline-block; width: 600px;" src="./assets/images/brain1.jpg" >
 <div class="twitterdiv">
       <!-- <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Latest tweets</h4></header> -->
       <div class="twitter-timeline">
