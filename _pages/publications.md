@@ -30,15 +30,10 @@ something something, cool with citations?
 ## Book chapters
 
 
-<script src="/assets/particle_bar.js"></script>
-<script>
-particlesJS.load('particles-js', '/assets/particlesjs.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
-  particlesJS.load('particles-js1', '/assets/particlesjs.json', function() {
-    console.log('callback - particles.js config loaded');
-  });</script>
-<link rel="stylesheet" href="/assets/collapsible.css" />
+
+
+
 <div class="imageright" id="particles-js"></div>
 <div id="particles-js1" class="imageleft"></div>   
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+{%- include particle.html -%}
