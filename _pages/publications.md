@@ -36,10 +36,10 @@ something something, cool with citations?
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 {%- include particle.html -%}
 <script>   
-particlesJS.load('particles-js', '/assets/particlesjs.json', function() {
+particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
       });
-      particlesJS.load('particles-js1', '/assets/particlesjs.json', function() {
+      particlesJS.load('particles-js1', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
       });</script>
 <div class="imageright" id="particles-js"></div>
