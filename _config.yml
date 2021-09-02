@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -280,7 +280,8 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
-      layout: single
+      layout: posts
+      show_date: true
 
