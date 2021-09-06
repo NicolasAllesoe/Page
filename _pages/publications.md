@@ -38,7 +38,7 @@ something something, cool with citations?
 <script>   
       particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
-      })){
+      })
       particlesJS.load('particles-js1', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
       }
