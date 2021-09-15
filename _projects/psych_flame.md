@@ -16,14 +16,14 @@ Læs mere om PSYCH-FLAME [her.](https://www.psykiatri-regionh.dk/psych-flame/Sid
 
 
 
-{%- include particle.html -%}
 <script>   
       particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
-        console.log('callback - particles.js config loaded');
+          console.log('callback - particles.js config loaded');
       })
       particlesJS.load('particles-js1', '/Page/assets/particlesjs.json', function() {
-       console.log('callback - particles.js config loaded');
+          console.log('callback - particles.js config loaded');
       })
 </script>
 <div class="imageright" id="particles-js"></div>
 <div id="particles-js1" class="imageleft"></div> 
+{%- include particle.html -%}
