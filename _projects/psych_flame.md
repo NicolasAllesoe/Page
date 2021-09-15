@@ -15,7 +15,8 @@ Vi vil med studiet belyse forekomsten af autoantistoffer, infektioner og andre i
 Læs mere om PSYCH-FLAME [her.](https://www.psykiatri-regionh.dk/psych-flame/Sider/default.aspx)
 
 
-
+<script></script>
+{%- include particle.html -%}
 <script>   
       particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
           console.log('callback - particles.js config loaded');
@@ -26,4 +27,3 @@ Læs mere om PSYCH-FLAME [her.](https://www.psykiatri-regionh.dk/psych-flame/Sid
 </script>
 <div class="imageright" id="particles-js"></div>
 <div id="particles-js1" class="imageleft"></div> 
-{%- include particle.html -%}

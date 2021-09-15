@@ -12,6 +12,9 @@ Here is our projects:
 - Co-morbiditet mellem psykiatriske sygdomme og generelle medicinske tilstande
 
 
+
+<script></script>
+{%- include particle.html -%}
 <script>   
       particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
@@ -20,6 +23,6 @@ Here is our projects:
        console.log('callback - particles.js config loaded');
       })
 </script>
+
 <div class="imageright" id="particles-js"></div>
-<div id="particles-js1" class="imageleft"></div>   
-{%- include particle.html -%}
+<div id="particles-js1" class="imageleft"></div>  

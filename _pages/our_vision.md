@@ -6,6 +6,12 @@ layout: single
 ---
 
 
+
+
+
+
+<script></script>
+{%- include particle.html -%}
 <script>   
       particlesJS.load('particles-js', '/Page/assets/particlesjs.json', function() {
         console.log('callback - particles.js config loaded');
@@ -16,4 +22,3 @@ layout: single
 </script>
 <div class="imageright" id="particles-js"></div>
 <div id="particles-js1" class="imageleft"></div>   
-{%- include particle.html -%}
