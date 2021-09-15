@@ -4,6 +4,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Our Vision"
+    url: vision
   - title: "People"
     url: people
   - title: "Projects"
@@ -20,6 +22,8 @@ projects:
     url: projects/precise
   - title: "Co-morbiditet mellem psykiatriske sygdomme og generelle medicinske tilstande"
     url: projects/immuno_psykiatri
+
+
 people:
   - title: "Professor and Head of Research"
     children:
