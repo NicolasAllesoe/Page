@@ -63,6 +63,9 @@ people:
 publications:
   - title: "Preprints"
     url: publications/#preprints
+    children:
+      - title: "2021"
+        url: publications/#2021
   - title: "Research articles"
     url: publications/#research-articles
   - title: "Conference proceedings"
