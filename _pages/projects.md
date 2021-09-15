@@ -6,8 +6,8 @@ sidebar:
     nav: projects
 ---
 Here is our projects:  
-- [ImmunoPsykiatri](immuno_psykiatri)
-- PSYCH-FLAME
+- [ImmunoPsykiatri](projects/immuno_psykiatri)
+- [PSYCH-FLAME](projects/psych_flame)
 - PRECISE  
 - Co-morbiditet mellem psykiatriske sygdomme og generelle medicinske tilstande
 
