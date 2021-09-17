@@ -1,11 +1,15 @@
 ---
-title: Publications
+title: Editorials
 layout: single
-permalink: /publications/
+permalink: /editorials
 sidebar:
   nav: "publications"
 classes: wide
 ---
+
+
+
+
 
 
 

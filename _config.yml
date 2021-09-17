@@ -160,6 +160,7 @@ include:
   - _pages
   - _people
   - _projects
+  - _publications
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

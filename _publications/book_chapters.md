@@ -1,11 +1,23 @@
 ---
-title: Publications
+title: Book Chapters
 layout: single
-permalink: /publications/
+permalink: /book_chapters
 sidebar:
   nav: "publications"
 classes: wide
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

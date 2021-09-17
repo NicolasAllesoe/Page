@@ -1,11 +1,23 @@
 ---
-title: Publications
+title: Conference Proceedings
 layout: single
-permalink: /publications/
+permalink: /conference_proceedings
 sidebar:
   nav: "publications"
 classes: wide
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

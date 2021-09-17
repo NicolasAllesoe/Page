@@ -66,17 +66,14 @@ people:
 
 publications:
   - title: "Preprints"
-    url: publications/#preprints
-    children:
-      - title: "2021"
-        url: publications/#2021
+    url: preprints
   - title: "Research articles"
-    url: publications/#research-articles
+    url: research_articles
   - title: "Conference proceedings"
-    url: publications/#conference-proceedings
+    url: conference_proceedings
   - title: "Reviews"
-    url: publications/#reviews
+    url: reviews
   - title: "Editorials"
-    url: publications/#editorials
+    url: editorials
   - title: "Book chapters"
-    url: publications/#book-chapters
+    url: book_chapters
