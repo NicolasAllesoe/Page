@@ -19,7 +19,7 @@ Petersen MW, Dantoft TM, Jensen JS, Pedersen HF, Frostholm L, Benros ME, Carsten
 
 ### 2020 
 Vindegaard N, Benros ME. COVID-19 pandemic and mental health consequences: systematic review of the current evidence. Brain, Behavior and Immunity. 2020. **89**: 531-542.  
-[Full text](https://doi.org/10.1016/j.bbi.2020.05.048)  <span class="__dimensions_badge_embed__" data-doi="	10.1016/j.bbi.2020.05.048" data-style="small_rectangle"></
+[Full text](https://doi.org/10.1016/j.bbi.2020.05.048)  <span class="__dimensions_badge_embed__" data-doi="	10.1016/j.bbi.2020.05.048" data-style="small_rectangle"></span>
 
 
 
