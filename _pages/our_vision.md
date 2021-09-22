@@ -1,10 +1,10 @@
 ---
 title: Our Vision
 permalink: vision
-layout: splash
+layout: single
 
 ---
-## Our vision:
+
 
 
 
