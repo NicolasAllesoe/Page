@@ -5,6 +5,7 @@ permalink: /research_articles
 sidebar:
   nav: "publications"
 classes: wide
+
 ---
 Click to get to year.  
 [2021](#2021)(1) [2020](#2020)(1)
