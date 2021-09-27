@@ -4,6 +4,7 @@
 
    .page__footer {
     @include clearfix;
+    display: none;
     float: left;
     margin-left: 0;
     margin-right: 0;
@@ -14,7 +15,7 @@
     animation: $intro-transition;
     -webkit-animation-delay: 0.45s;
     animation-delay: 0.45s;
-    background-color: #fff;
+   
   
     footer {
       @include clearfix;
