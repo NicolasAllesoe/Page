@@ -6,6 +6,8 @@ sidebar:
     nav: people
 ---
 {% include breadcrumbs.html %}
+<br>
+
 # Ron Nudel
 
 ## Research interests
