@@ -29,7 +29,7 @@ people:
     children:
       - title: "Micheal Eriksen Benros"
         url: people/micheal_benros
-  - title: "Senior researcher/postdoc"
+  - title: "Senior researchers/postdocs"
     children:
       - title: "Rune Haubo Christensen"
         url: people/rune_haubo
@@ -45,11 +45,11 @@ people:
         url: people/rose_jeppesen
       - title: "Vardan Nersesjan"
         url: people/vardan_nersesjan
-  - title: "Intern"
+  - title: "Interns"
     children:
       - title: "Nicolas Allesøe"
         url: people/nicolas
-  - title: "Assistant"
+  - title: "Assistants"
     children:
      - title: "Signe Clausen"
        url: people/signe_clausen
