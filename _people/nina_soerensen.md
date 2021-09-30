@@ -6,13 +6,11 @@ sidebar:
     nav: people
 ---
 
+## Research interests
 
 
-## Short profile
+## Research profile/highlights
 
+## Selected publications
 
-
-## Brief CV
-
-
-## Other profiles
+## Personal links - optional

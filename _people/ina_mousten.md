@@ -8,11 +8,12 @@ sidebar:
 
 
 
-## Short profile
+
+## Research interests
 
 
+## Research profile/highlights
 
-## Brief CV
+## Selected publications
 
-
-## Other profiles
+## Personal links - optional

@@ -35,7 +35,7 @@ people:
         url: people/rune_haubo
       - title: "Ron Nudel"
         url: people/ron_nudel
-  - title: "Phd Students"
+  - title: "PhD Students"
     children:
       - title: "Rosa Lundbye Allesøe"
         url: people/rosa_allesoe
@@ -49,7 +49,7 @@ people:
     children:
       - title: "Nicolas Allesøe"
         url: people/nicolas
-  - title: "Assistent"
+  - title: "Assistant"
     children:
      - title: "Signe Clausen"
        url: people/signe_clausen
