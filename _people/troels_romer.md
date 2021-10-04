@@ -1,11 +1,14 @@
 ---
-title: Troels Boldt Rømer
+id: Troels Boldt Rømer
 layout: single
 permalink: people/troels_romer
 sidebar:
     nav: people
 ---
+{% include breadcrumbs.html %}
+<br>
 
+# Troels Boldt Rømer
 
 
 ## Research interests
@@ -16,3 +19,11 @@ sidebar:
 ## Selected publications
 
 ## Personal links - optional
+
+
+<script></script>
+{%- include particle.html -%}
+
+
+<div class="imageright" id="particles-js"></div>
+<div id="particles-js1" class="imageleft"></div>  
